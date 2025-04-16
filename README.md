@@ -15,9 +15,10 @@ I'm a second-year B.Tech student at Graphic Era Hill University, passionate abou
 - 🌐 Portfolio: [Check out my portfolio](https://aditya2006p.github.io/Portfolio/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya2006p&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya2006p&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya2006p&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+
 
 ## 📚 Education
 
@@ -84,44 +85,44 @@ I'm a second-year B.Tech student at Graphic Era Hill University, passionate abou
 
 ## 🚀 Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; margin-bottom: 20px;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
   <h3>🌦️ AtmosphereApp</h3>
   <p>A sleek weather forecasting web application powered by the OpenWeather API that provides real-time weather updates for cities worldwide with dynamic visuals.</p>
   <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript, OpenWeather API</p>
   <a href="https://github.com/Aditya2006p/AtmosphereApp" target="_blank">View Project</a>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; margin-bottom: 20px;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
   <h3>🔐 KeyForge Password Generator</h3>
   <p>An efficient password generator that creates strong, unique, and secure passwords with customizable options for length and character types.</p>
   <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
   <a href="https://github.com/Aditya2006p/KeyForge-Secure-Password-Generator" target="_blank">View Project</a>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; margin-bottom: 20px;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
   <h3>🧮 NeoCalc iOS</h3>
   <p>A dark-themed, sleek calculator inspired by the iOS design, built with web technologies for a seamless and intuitive user experience.</p>
   <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
   <a href="https://github.com/Aditya2006p/NeoCalc-iOS" target="_blank">View Project</a>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; margin-bottom: 20px;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
   <h3>📱 QRify QR Code Generator</h3>
   <p>A simple yet powerful web application designed to generate custom QR codes for URLs, text, and other types of data with just a few clicks.</p>
   <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
   <a href="https://github.com/Aditya2006p/QRify-QR-Code-Generator" target="_blank">View Project</a>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; margin-bottom: 20px;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
   <h3>📝 TaskMaster To-Do List</h3>
   <p>A minimalistic to-do list application that helps users organize and track daily tasks with features to add, edit, and delete tasks.</p>
   <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript, Local Storage</p>
   <a href="https://github.com/Aditya2006p/TaskMaster-To-Do-List" target="_blank">View Project</a>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 300px; margin-bottom: 20px;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px;">
   <h3>🎮 TicTacToe Master</h3>
   <p>A web-based version of the classic Tic-Tac-Toe game that lets players challenge each other or play against the computer.</p>
   <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
