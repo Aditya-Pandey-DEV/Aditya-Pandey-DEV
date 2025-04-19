@@ -15,7 +15,7 @@ I'm a second-year B.Tech student at Graphic Era Hill University, passionate abou
 - 🌐 Portfolio: [Check out my portfolio](https://theadityapandey.github.io/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya2006p&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 
