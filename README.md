@@ -12,7 +12,7 @@ I'm a second-year B.Tech student at Graphic Era Hill University, passionate abou
 - 🔍 Exploring **AI & ML** technologies
 - 💻 Building projects that solve real-world problems
 - 📧 Reach me at: **adityabro925@gmail.com**
-- 🌐 Portfolio: [Check out my portfolio](https://theadityapandey.github.io/)
+- 🌐 Portfolio: [Check out my portfolio](https://adityapandey-dev.github.io/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityapandey-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
