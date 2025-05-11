@@ -11,7 +11,7 @@ I'm a second-year B.Tech student at Graphic Era Hill University, passionate abou
 - 🌱 Currently mastering the **MERN Stack**
 - 🔍 Exploring **AI & ML** technologies
 - 💻 Building projects that solve real-world problems
-- 📧 Reach me at: **adityabro925@gmail.com**
+- 📧 Reach me at: **adityapandey.dev.in@gmail.com**
 - 🌐 Portfolio: [Check out my portfolio](https://adityapandey-dev.github.io/)
 
 <p align="center">
