@@ -1,3 +1,5 @@
+I apologize for the confusion. Let me update the README with the correct usernames:
+
 # 👋 Hey there, I'm Aditya Pandey - Full Stack Developer & CSE Student
 
 <p align="center">
@@ -9,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/adityapandey-dev?style=social)](https://github.com/adityapandey-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityapandey-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://adityapandey-dev.github.io/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/adityapandey-dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Adityapandey-dev/)
 [![Profile Views](https://komarev.com/ghpvc/?username=adityapandey-dev&color=blueviolet)](https://github.com/adityapandey-dev)
 
 </div>
@@ -245,7 +247,7 @@ Explore my comprehensive portfolio featuring detailed project demonstrations, ca
   <a href="https://github.com/adityapandey-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Aditya on GitHub" />
   </a>
-  <a href="https://leetcode.com/adityapandey-dev/" target="_blank">
+  <a href="https://leetcode.com/u/Adityapandey-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Aditya's LeetCode Profile" />
   </a>
   <a href="https://twitter.com/devadityapandey" target="_blank">
