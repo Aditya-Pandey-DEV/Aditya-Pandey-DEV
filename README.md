@@ -101,51 +101,53 @@ I'm a passionate B.Tech CSE student at Graphic Era Hill University, driven by a 
 
 ## 🚀 Featured Projects & Development Portfolio
 
-### 🌦️ [AtmosphereApp - Weather Forecasting Application](https://github.com/adityapandey-dev/AtmosphereApp)
+### 🌦️ AtmosphereApp - Weather Forecasting Application
 A responsive weather forecasting web application powered by the OpenWeather API that provides real-time weather updates for cities worldwide with dynamic visuals based on current conditions.
 
 **Technologies**: HTML5, CSS3, JavaScript, OpenWeather API, Responsive Design  
-[View Project](https://github.com/adityapandey-dev/AtmosphereApp)![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/AtmosphereApp)
 
 ---
 
-### 🔐 [KeyForge - Secure Password Generator](https://github.com/adityapandey-dev/KeyForge-Secure-Password-Generator)
+### 🔐 KeyForge - Secure Password Generator
 An efficient password generator application that creates strong, unique, and secure passwords with customizable options for length, character types, and strength indicators for maximum security.
 
 **Technologies**: HTML5, CSS3, JavaScript, Local Storage  
-[View Project](https://github.com/adityapandey-dev/KeyForge-Secure-Password-Generator)![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/KeyForge-Secure-Password-Generator)
 
 ---
 
-### 🧮 [NeoCalc iOS - Modern Calculator Application](https://github.com/adityapandey-dev/NeoCalc-iOS)
+### 🧮 NeoCalc iOS - Modern Calculator Application
 A dark-themed, sleek calculator inspired by the iOS design, built with web technologies for a seamless and intuitive user experience with advanced calculation capabilities.
 
 **Technologies**: HTML5, CSS3, JavaScript, Math.js Library  
-[View Project](https://github.com/adityapandey-dev/NeoCalc-iOS)![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/NeoCalc-iOS)
 
 ---
 
-### 📱 [QRify - QR Code Generator Tool](https://github.com/adityapandey-dev/QRify-QR-Code-Generator)
+### 📱 QRify - QR Code Generator Tool
 A simple yet powerful web application designed to generate custom QR codes for URLs, text, and other types of data with customization options for colors and sizes.
 
 **Technologies**: HTML5, CSS3, JavaScript, QR Code API  
-[View Project](https://github.com/adityapandey-dev/QRify-QR-Code-Generator)![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/QRify-QR-Code-Generator)
 
 ---
 
-### 📝 [TaskMaster - Productivity Task Manager](https://github.com/adityapandey-dev/TaskMaster-To-Do-List)
+### 📝 TaskMaster - Productivity Task Manager
 A minimalistic yet feature-rich to-do list application that helps users organize and track daily tasks with capabilities to add, edit, prioritize, and delete tasks with persistence.
 
 **Technologies**: HTML5, CSS3, JavaScript, Local Storage API  
-[View Project](https://github.com/adityapandey-dev/TaskMaster-To-Do-List)![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/TaskMaster-To-Do-List)
 
 ---
 
-### 🎮 [TicTacToe Master - Interactive Game](https://github.com/adityapandey-dev/TicTacToe-Master)
+### 🎮 TicTacToe Master - Interactive Game
 A web-based version of the classic Tic-Tac-Toe game that lets players challenge each other or play against AI with multiple difficulty levels and score tracking.
 
 **Technologies**: HTML5, CSS3, JavaScript, Minimax Algorithm  
-[View Project](https://github.com/adityapandey-dev/TicTacToe-Master)![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/TicTacToe-Master)
+
+---
 
 ---
 
