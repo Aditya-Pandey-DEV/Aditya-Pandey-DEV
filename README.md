@@ -101,63 +101,59 @@ I'm a passionate B.Tech CSE student at Graphic Era Hill University, driven by a 
 
 ## 🚀 Featured Projects & Development Portfolio
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
+### 🌦️ [AtmosphereApp - Weather Forecasting Application](https://github.com/adityapandey-dev/AtmosphereApp)
+A responsive weather forecasting web application powered by the OpenWeather API that provides real-time weather updates for cities worldwide with dynamic visuals based on current conditions.
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; transition: transform 0.3s ease;">
-  <h3>🌦️ AtmosphereApp - Weather Forecasting Application</h3>
-  <p>A responsive weather forecasting web application powered by the OpenWeather API that provides real-time weather updates for cities worldwide with dynamic visuals based on current conditions.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, OpenWeather API, Responsive Design</p>
-  <a href="https://github.com/adityapandey-dev/AtmosphereApp" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View AtmosphereApp Project" />
-  </a>
-</div>
+**Technologies**: HTML5, CSS3, JavaScript, OpenWeather API, Responsive Design  
+[View Project](https://github.com/adityapandey-dev/AtmosphereApp)  
+![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; transition: transform 0.3s ease;">
-  <h3>🔐 KeyForge - Secure Password Generator</h3>
-  <p>An efficient password generator application that creates strong, unique, and secure passwords with customizable options for length, character types and strength indicators for maximum security.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, Local Storage</p>
-  <a href="https://github.com/adityapandey-dev/KeyForge-Secure-Password-Generator" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View KeyForge Project" />
-  </a>
-</div>
+---
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; transition: transform 0.3s ease;">
-  <h3>🧮 NeoCalc iOS - Modern Calculator Application</h3>
-  <p>A dark-themed, sleek calculator inspired by the iOS design, built with web technologies for a seamless and intuitive user experience with advanced calculation capabilities.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, Math.js Library</p>
-  <a href="https://github.com/adityapandey-dev/NeoCalc-iOS" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View NeoCalc Project" />
-  </a>
-</div>
+### 🔐 [KeyForge - Secure Password Generator](https://github.com/adityapandey-dev/KeyForge-Secure-Password-Generator)
+An efficient password generator application that creates strong, unique, and secure passwords with customizable options for length, character types, and strength indicators for maximum security.
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; transition: transform 0.3s ease;">
-  <h3>📱 QRify - QR Code Generator Tool</h3>
-  <p>A simple yet powerful web application designed to generate custom QR codes for URLs, text, and other types of data with customization options for colors and sizes.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, QR Code API</p>
-  <a href="https://github.com/adityapandey-dev/QRify-QR-Code-Generator" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View QRify Project" />
-  </a>
-</div>
+**Technologies**: HTML5, CSS3, JavaScript, Local Storage  
+[View Project](https://github.com/adityapandey-dev/KeyForge-Secure-Password-Generator)  
+![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; transition: transform 0.3s ease;">
-  <h3>📝 TaskMaster - Productivity Task Manager</h3>
-  <p>A minimalistic yet feature-rich to-do list application that helps users organize and track daily tasks with capabilities to add, edit, prioritize, and delete tasks with persistence.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, Local Storage API</p>
-  <a href="https://github.com/adityapandey-dev/TaskMaster-To-Do-List" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View TaskMaster Project" />
-  </a>
-</div>
+---
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; transition: transform 0.3s ease;">
-  <h3>🎮 TicTacToe Master - Interactive Game</h3>
-  <p>A web-based version of the classic Tic-Tac-Toe game that lets players challenge each other or play against AI with multiple difficulty levels and score tracking.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, Minimax Algorithm</p>
-  <a href="https://github.com/adityapandey-dev/TicTacToe-Master" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View TicTacToe Project" />
-  </a>
-</div>
+### 🧮 [NeoCalc iOS - Modern Calculator Application](https://github.com/adityapandey-dev/NeoCalc-iOS)
+A dark-themed, sleek calculator inspired by the iOS design, built with web technologies for a seamless and intuitive user experience with advanced calculation capabilities.
 
-</div>
+**Technologies**: HTML5, CSS3, JavaScript, Math.js Library  
+[View Project](https://github.com/adityapandey-dev/NeoCalc-iOS)  
+![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+
+---
+
+### 📱 [QRify - QR Code Generator Tool](https://github.com/adityapandey-dev/QRify-QR-Code-Generator)
+A simple yet powerful web application designed to generate custom QR codes for URLs, text, and other types of data with customization options for colors and sizes.
+
+**Technologies**: HTML5, CSS3, JavaScript, QR Code API  
+[View Project](https://github.com/adityapandey-dev/QRify-QR-Code-Generator)  
+![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+
+---
+
+### 📝 [TaskMaster - Productivity Task Manager](https://github.com/adityapandey-dev/TaskMaster-To-Do-List)
+A minimalistic yet feature-rich to-do list application that helps users organize and track daily tasks with capabilities to add, edit, prioritize, and delete tasks with persistence.
+
+**Technologies**: HTML5, CSS3, JavaScript, Local Storage API  
+[View Project](https://github.com/adityapandey-dev/TaskMaster-To-Do-List)  
+![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+
+---
+
+### 🎮 [TicTacToe Master - Interactive Game](https://github.com/adityapandey-dev/TicTacToe-Master)
+A web-based version of the classic Tic-Tac-Toe game that lets players challenge each other or play against AI with multiple difficulty levels and score tracking.
+
+**Technologies**: HTML5, CSS3, JavaScript, Minimax Algorithm  
+[View Project](https://github.com/adityapandey-dev/TicTacToe-Master)  
+![](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)
+
+---
 
 ## 📊 GitHub Analytics & Contributions
 
