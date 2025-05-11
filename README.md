@@ -1,5 +1,3 @@
-I apologize for the confusion. Let me update the README with the correct usernames:
-
 # 👋 Hey there, I'm Aditya Pandey - Full Stack Developer & CSE Student
 
 <p align="center">
