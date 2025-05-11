@@ -199,7 +199,7 @@ Check out my portfolio website to see my latest projects, skills, and achievemen
   <a href="https://leetcode.com/u/Adityapandey-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:adityabro925@gmail.com">
+  <a href="mailto:adityapandey.dev.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
