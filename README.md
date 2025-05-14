@@ -223,7 +223,7 @@ A web-based version of the classic Tic-Tac-Toe game that lets players challenge 
 Explore my comprehensive portfolio featuring detailed project demonstrations, case studies, and interactive examples of my development work:
 
 <p align="center">
-  <a href="https://adityapandey-dev.github.io/" target="_blank">
+  <a href="https://aditya-pandey-dev.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Aditya Pandey's Portfolio Website" />
   </a>
 </p>
