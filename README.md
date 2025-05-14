@@ -231,10 +231,10 @@ Explore my comprehensive portfolio featuring detailed project demonstrations, ca
 ## 📫 Connect With Me | Social & Professional Networks
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityapandey-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-pandey-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aditya on LinkedIn" />
   </a>
-  <a href="https://github.com/adityapandey-dev" target="_blank">
+  <a href="https://github.com/aditya-pandey-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Aditya on GitHub" />
   </a>
   <a href="https://leetcode.com/u/Adityapandey-dev/" target="_blank">
