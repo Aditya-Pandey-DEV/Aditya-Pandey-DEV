@@ -6,11 +6,11 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/adityapandey-dev?style=social)](https://github.com/adityapandey-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityapandey-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://adityapandey-dev.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/adityapandey-dev?style=social)](https://github.com/aditya-pandey-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-pandey-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://aditya-pandey-dev.github.io/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Adityapandey-dev/)
-[![Profile Views](https://komarev.com/ghpvc/?username=adityapandey-dev&color=blueviolet)](https://github.com/adityapandey-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityapandey-dev&color=blueviolet)](https://github.com/aditya-pandey-dev)
 
 </div>
 
