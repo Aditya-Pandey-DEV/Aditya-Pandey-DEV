@@ -25,7 +25,7 @@ I'm a passionate B.Tech CSE student at Graphic Era Hill University, driven by a 
 - 📧 Reach me at: **adityapandey.dev.in@gmail.com**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey-dev&show_icons=true&theme=tokyonight" alt="Aditya Pandey's GitHub statistics showing commits, PRs, issues, and contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-pandey-dev&show_icons=true&theme=tokyonight" alt="Aditya Pandey's GitHub statistics showing commits, PRs, issues, and contributions" />
 </div>
 
 ## 📚 Education & Academic Background
