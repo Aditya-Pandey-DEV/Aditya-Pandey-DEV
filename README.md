@@ -152,11 +152,11 @@ A web-based version of the classic Tic-Tac-Toe game that lets players challenge 
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandey-dev&theme=tokyonight" alt="Aditya Pandey's GitHub contribution streak showing consistent development activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-pandey-dev&theme=tokyonight" alt="Aditya Pandey's GitHub contribution streak showing consistent development activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapandey-dev&theme=nord&column=7" alt="Aditya Pandey's GitHub trophy showcase highlighting achievements and milestones" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-pandey-dev&theme=nord&column=7" alt="Aditya Pandey's GitHub trophy showcase highlighting achievements and milestones" />
 </p>
 
 ## 🏆 Professional Certifications
