@@ -6,11 +6,11 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/aditya-pandey-dev?style=social)](https://github.com/aditya-pandey-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-pandey-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://aditya-pandey-dev.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/adityapandey-dev?style=social)](https://github.com/adityapandey-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityapandey-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://adityapandey-dev.github.io/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Adityapandey-dev/)
-[![Profile Views](https://komarev.com/ghpvc/?username=adityapandey-dev&color=blueviolet)](https://github.com/aditya-pandey-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityapandey-dev&color=blueviolet)](https://github.com/adityapandey-dev)
 
 </div>
 
@@ -25,7 +25,7 @@ I'm a passionate B.Tech CSE student at Graphic Era Hill University, driven by a 
 - 📧 Reach me at: **adityapandey.dev.in@gmail.com**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-pandey-dev&show_icons=true&theme=tokyonight" alt="Aditya Pandey's GitHub statistics showing commits, PRs, issues, and contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey-dev&show_icons=true&theme=tokyonight" alt="Aditya Pandey's GitHub statistics showing commits, PRs, issues, and contributions" />
 </div>
 
 ## 📚 Education & Academic Background
@@ -152,11 +152,11 @@ A web-based version of the classic Tic-Tac-Toe game that lets players challenge 
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-pandey-dev&theme=tokyonight" alt="Aditya Pandey's GitHub contribution streak showing consistent development activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandey-dev&theme=tokyonight" alt="Aditya Pandey's GitHub contribution streak showing consistent development activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya-pandey-dev&theme=nord&column=7" alt="Aditya Pandey's GitHub trophy showcase highlighting achievements and milestones" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapandey-dev&theme=nord&column=7" alt="Aditya Pandey's GitHub trophy showcase highlighting achievements and milestones" />
 </p>
 
 ## 🏆 Professional Certifications
@@ -223,7 +223,7 @@ A web-based version of the classic Tic-Tac-Toe game that lets players challenge 
 Explore my comprehensive portfolio featuring detailed project demonstrations, case studies, and interactive examples of my development work:
 
 <p align="center">
-  <a href="https://aditya-pandey-dev.github.io/" target="_blank">
+  <a href="https://adityapandey-dev.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Aditya Pandey's Portfolio Website" />
   </a>
 </p>
@@ -231,10 +231,10 @@ Explore my comprehensive portfolio featuring detailed project demonstrations, ca
 ## 📫 Connect With Me | Social & Professional Networks
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pandey-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/adityapandey-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aditya on LinkedIn" />
   </a>
-  <a href="https://github.com/aditya-pandey-dev" target="_blank">
+  <a href="https://github.com/adityapandey-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Aditya on GitHub" />
   </a>
   <a href="https://leetcode.com/u/Adityapandey-dev/" target="_blank">
