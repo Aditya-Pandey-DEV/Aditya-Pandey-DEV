@@ -96,7 +96,7 @@ I'm a passionate B.Tech CSE student at Graphic Era Hill University, driven by a 
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Framework" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
 </p>
-
+<!--
 ## 🚀 Featured Projects & Development Portfolio
 
 ### 🌦️ AtmosphereApp - Weather Forecasting Application
@@ -144,7 +144,7 @@ A web-based version of the classic Tic-Tac-Toe game that lets players challenge 
 
 **Technologies**: HTML5, CSS3, JavaScript, Minimax Algorithm  
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/adityapandey-dev/TicTacToe-Master)
-
+-->
 ---
 
 ---
